@@ -1,0 +1,9 @@
+{
+  "name": "brat-api",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "type": "module",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
